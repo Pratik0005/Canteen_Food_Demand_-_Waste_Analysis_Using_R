@@ -1,0 +1,43 @@
+Date,Day,Food_Item,Quantity_Prepared,Quantity_Sold,Price_Per_Item_INR,Waste_Quantity,Sales_Revenue_INR
+2026-09-01,Monday,Samosa,100,85,15,15,1275
+2026-09-01,Monday,Vada Pav,120,110,20,10,2200
+2026-09-01,Monday,Sandwich,80,65,40,15,2600
+2026-09-02,Tuesday,Samosa,100,90,15,10,1350
+2026-09-02,Tuesday,Vada Pav,120,115,20,5,2300
+2026-09-02,Tuesday,Sandwich,80,60,40,20,2400
+2026-09-03,Wednesday,Samosa,100,75,15,25,1125
+2026-09-03,Wednesday,Vada Pav,120,105,20,15,2100
+2026-09-03,Wednesday,Sandwich,80,55,40,25,2200
+2026-09-04,Thursday,Samosa,100,88,15,12,1320
+2026-09-04,Thursday,Vada Pav,120,112,20,8,2240
+2026-09-04,Thursday,Sandwich,80,68,40,12,2720
+2026-09-05,Friday,Samosa,100,92,15,8,1380
+2026-09-05,Friday,Vada Pav,120,118,20,2,2360
+2026-09-05,Friday,Sandwich,80,62,40,18,2480
+2026-09-06,Saturday,Samosa,100,70,15,30,1050
+2026-09-06,Saturday,Vada Pav,120,95,20,25,1900
+2026-09-06,Saturday,Sandwich,80,45,40,35,1800
+2026-09-07,Sunday,Samosa,100,55,15,45,825
+2026-09-07,Sunday,Vada Pav,120,75,20,45,1500
+2026-09-07,Sunday,Sandwich,80,35,40,45,1400
+2026-09-08,Monday,Poha,90,78,25,12,1950
+2026-09-08,Monday,Tea,150,135,10,15,1350
+2026-09-08,Monday,Coffee,100,82,15,18,1230
+2026-09-09,Tuesday,Poha,90,82,25,8,2050
+2026-09-09,Tuesday,Tea,150,140,10,10,1400
+2026-09-09,Tuesday,Coffee,100,88,15,12,1320
+2026-09-10,Wednesday,Poha,90,65,25,25,1625
+2026-09-10,Wednesday,Tea,150,120,10,30,1200
+2026-09-10,Wednesday,Coffee,100,70,15,30,1050
+2026-09-11,Thursday,Poha,90,80,25,10,2000
+2026-09-11,Thursday,Tea,150,138,10,12,1380
+2026-09-11,Thursday,Coffee,100,85,15,15,1275
+2026-09-12,Friday,Poha,90,84,25,6,2100
+2026-09-12,Friday,Tea,150,145,10,5,1450
+2026-09-12,Friday,Coffee,100,90,15,10,1350
+2026-09-13,Saturday,Poha,90,60,25,30,1500
+2026-09-13,Saturday,Tea,150,100,10,50,1000
+2026-09-13,Saturday,Coffee,100,58,15,42,870
+2026-09-14,Sunday,Poha,90,42,25,48,1050
+2026-09-14,Sunday,Tea,150,70,10,80,700
+2026-09-14,Sunday,Coffee,100,40,15,60,600
